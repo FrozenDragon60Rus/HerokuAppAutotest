@@ -1,10 +1,7 @@
 ﻿using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Interactions;
 using SeleniumExtension.Status;
-using System.Security.Cryptography;
-using System.Text.RegularExpressions;
 
 namespace herokuappTest
 {
